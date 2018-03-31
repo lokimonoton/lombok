@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "formhub": {
+          "uuid": "9582550d27a9452997fa2379e9c5a918"
+        },
+        "a": 646,
+        "b": 6460,
+        "c": 0.015479876160990712,
+        "d": "this was the first value for a:",
+        "meta": {
+          "instanceId": "uuid:614a6823-1a52-4741-9301-93fd99e2b9c9",
+          "instanceName": "once",
+          "formId": "once",
+          "deviceId": "imei:863673039095013",
+          "submissionTime": "2018-03-31T15:04:40.333Z"
+        }
+      },
+      "id": "614a6823-1a52-4741-9301-93fd99e2b9c9"
+    }
+  ]
+}
