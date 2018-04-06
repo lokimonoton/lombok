@@ -63,6 +63,27 @@
         }
       },
       "id": "315309a4-5b85-4c06-9424-f103fc7dcee1"
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "formhub": {
+          "uuid": "9582550d27a9452997fa2379e9c5a918"
+        },
+        "a": 66,
+        "b": 660,
+        "c": 0.15151515151515152,
+        "d": "this was the first value for a:",
+        "meta": {
+          "instanceId": "uuid:ec0bf0ba-727c-4647-ae2b-68dcd7b487bd",
+          "instanceName": "once",
+          "formId": "once",
+          "deviceId": "imei:863673039095013",
+          "submissionTime": "2018-04-06T09:17:31.283Z"
+        }
+      },
+      "id": "ec0bf0ba-727c-4647-ae2b-68dcd7b487bd"
     }
   ]
 }
